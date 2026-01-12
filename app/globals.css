@@ -937,12 +937,12 @@
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background: var(--dark-400);
+  background: #1e2833;
   border-radius: 8px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-  background: var(--dark-500);
+  background: #171a34;
 }
 
 /* Table Custom Scrollbar */
